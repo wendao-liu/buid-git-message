@@ -1,0 +1,15 @@
+{
+  "name": "buid-git-message",
+  "version": "1.0.0",
+  "description": "webapck 打包记录git信息的loader ",
+  "main": "buid-git-message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "loader-utils": "^2.0.0"
+  }
+}
