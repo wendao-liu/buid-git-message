@@ -1,8 +1,8 @@
 {
   "name": "buid-git-message",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "webapck 打包记录git信息的loader ",
-  "main": "buid-git-message.js",
+  "main": "main/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,8 @@
   "devDependencies": {
     "child_process": "^1.0.2",
     "loader-utils": "^2.0.0"
-  }
+  },
+  "__npminstall_done": "Fri Apr 30 2021 14:11:56 GMT+0800 (中国标准时间)",
+  "_from": "buid-git-message@1.0.4",
+  "_resolved": "https://registry.nlark.com/buid-git-message/download/buid-git-message-1.0.4.tgz?cache=0&sync_timestamp=1619763059828&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fbuid-git-message%2Fdownload%2Fbuid-git-message-1.0.4.tgz"
 }
