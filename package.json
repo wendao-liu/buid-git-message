@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wendao-liu/buid-git-message.git",
+    "directory": "webpack 打包记录"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
